@@ -16,9 +16,9 @@
 ### Connect with me:
 
 <a href = "https://www.youtube.com/"><img align="left" alt="Youtube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href = "https://www.facebook.com/"><img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<a href = "https://www.instagram.com/"><img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<a href = "https://www.youtube.com/"><img align="left" alt="Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href = "https://www.facebook.com/"><img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href = "https://www.instagram.com/"><img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href = "https://discord.com/"><img align="left" alt="Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
 <br>
 <hr>
 
