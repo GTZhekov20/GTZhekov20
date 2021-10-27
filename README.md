@@ -1,4 +1,5 @@
-# Hi, my name is [Georgi Zhekov](https://github.com/GTZhekov20/)👋
+# Hello, my name is [Georgi Zhekov](https://github.com/GTZhekov20/)👋
+  
 <hr>
 
 <img align="right" height="250" width="375" alt="cat" src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966" />
@@ -14,17 +15,17 @@
 
 ### Connect with me:
 
-<img align="left" alt="Youtube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href = "https://www.youtube.com/"><img align="left" alt="Youtube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href = "https://www.facebook.com/"><img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href = "https://www.instagram.com/"><img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href = "https://www.youtube.com/"><img align="left" alt="Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 <br>
 <hr>
 
 ### Languages and Tools:
 
 <code><img alt="CPP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
-<code><img alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png"></code>
+<code><img alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png"></code>
 <code><img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
 <code><img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
@@ -41,14 +42,11 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTZhekov20&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
-
-  <summary><b>📚 Badges</b>
-  <details>
-  <code><a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a></code>
-  
-  <code><a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px"     src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
-  </details> 
-  </summary>
+ <details>
+   <summary><b>📚 Badges</b></summary>
+    <a href ="https://www.credly.com/badges/7d8832a6-2ebe-4751-bc23-e35e87c1f592"><img align="left" alt="Word 2016" width="200px" src="https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+ <a href ="https://www.credly.com/badges/d196c8e5-6c51-4844-adad-6434bea03357"><img align="left" alt="HTML5&CSS3" width="200px" src = "https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+</details>
    
 
 <br>
