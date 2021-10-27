@@ -8,7 +8,7 @@
 
 - 🚀 &nbsp; I’m currently studying at VSCPI (Vocational School for Computer Programming and Innovations).
 - 📖 &nbsp; I'm currently learning HTML5&CSS3 and C++.
-- 💡 &nbsp; Fun fact: I'm 195 cm tall and most of the time when I meet new people, the first thing they say to me is that I'm really tall and it drives me insane(especially when they start to ask questions like "Why are you so tall?", "What does it feel like to be tall?", etc.).
+- 💡 &nbsp; Fun fact: I'm 195 cm tall and most of the time when I meet new people, the first thing they say to me is that I'm really tall and it drives me insane (especially when they start to ask questions like "Why are you so tall?", "What does it feel like to be tall?", etc.).
 - 📫 &nbsp; E-mail for contact: GTZhekov20@codingburgas.bg
 
 <hr>
