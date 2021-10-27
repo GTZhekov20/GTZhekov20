@@ -18,9 +18,9 @@
 - You can reach out to me on the following sites/apps:
 <br>
 
-- Facebook; <a href = "https://www.facebook.com/"><img align="left" alt="Facebook" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-- Instagram; <a href = "https://www.instagram.com/"><img align="left" alt="Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-- Discord; <a href = "https://discord.com/"><img align="left" alt="Discord" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+- Facebook; <a href = "https://www.facebook.com/"><img align="left" alt="Facebook" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+- Instagram; <a href = "https://www.instagram.com/"><img align="left" alt="Instagram" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+- Discord; <a href = "https://discord.com/"><img align="left" alt="Discord" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
 <br>
 <hr>
 
